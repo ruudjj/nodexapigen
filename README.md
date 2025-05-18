@@ -32,7 +32,7 @@
 ---
 
 ## Target Folder Structure
-
+```
 api-server/
 ├── src/
 │ ├── router/
@@ -47,6 +47,7 @@ api-server/
 ├── .env
 ├── package.json
 └── README.md
+```
 
 ---
 
