@@ -86,4 +86,14 @@ api-server/
 
 ```bash
 nodexapigen create my-api --with-auth --with-mailer
+```
+---
 
+## Built With
+- Rust (CLI implementation)
+- clap (CLI argument parsing)
+
+---
+
+## License
+MIT © 2025
